@@ -10,7 +10,7 @@ function setup() {
   createCanvas(1200, 1200);
   background(51);
   noiseSeed(NOISE_SEED);
-  randomSeed(RANDOM_SEED)
+  randomSeed(RANDOM_SEED);
 }
 
 function draw() {
